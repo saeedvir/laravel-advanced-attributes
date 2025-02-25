@@ -144,7 +144,6 @@ return [
 ```
 
 # License
-* This package is created and modified by <a href="https://github.com/saeedvir" target="_blank">Milwad Khosravi</a> for Laravel >= 9 and is released under the MIT License.
 
 ## Contributing
 
