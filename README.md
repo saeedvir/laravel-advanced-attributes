@@ -147,14 +147,10 @@ return [
 
 ## Contributing
 
-This project exists thanks to all the people who
-contribute. [CONTRIBUTING](https://github.com/milwad-dev/laravel-attributes/graphs/contributors)
-
-<a href="https://github.com/saeedvir/laravel-advanced-attributes/graphs/contributors"><img src="https://opencollective.com/laravel-advanced-attributes/contributors.svg?width=890&button=false" /></a>
 
 ## Security
 
-If you've found a bug regarding security please mail [milwad.dev@gmail.com](mailto:saeed.es91@gmail.com) instead of
+If you've found a bug regarding security please mail [saeed.es91@gmail.com](mailto:saeed.es91@gmail.com) instead of
 using the issue tracker.
 
 ## Donate
