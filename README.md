@@ -30,18 +30,8 @@ php artisan migrate
 # Usage
 First, you use trait in model.
 ```php
-<?php
 
-namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Model;
-use Milwad\LaravelAttributes\Traits\Attributable;
-
-class Product extends Model
-{
-    use HasFactory, HasAttributes;
-}
 ```
 
 After, you have access to `attributes` relation and etc... .
