@@ -6,6 +6,7 @@
 # Requirements
 ***
 
+
 - `PHP: ^8.0`
 - `Laravel Framework: ^9.0`
 
