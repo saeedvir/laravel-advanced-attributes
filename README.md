@@ -1,14 +1,7 @@
 # Laravel Advanced Attributes
 
-<img src="https://banners.beyondco.de/Laravel%20Attributes.png?theme=dark&packageManager=composer+require&packageName=milwad%2Flaravel-attributes&pattern=boxes&style=style_2&description=Make+attributes+easy+for+Laravel&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" alt="Laravel-Attributes">
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/milwad/laravel-attributes.svg?style=flat-square)](https://packagist.org/packages/milwad/laravel-attributes)
-[![Total Downloads](https://img.shields.io/packagist/dt/milwad/laravel-attributes.svg?style=flat-square)](https://packagist.org/packages/milwad/laravel-attributes)
-[![License](https://img.shields.io/packagist/l/milwad/laravel-attributes)](https://packagist.org/packages/milwad/laravel-attributes)
-[![Passed Tests](https://github.com/milwad-dev/laravel-attributes/actions/workflows/run-tests.yml/badge.svg)](https://github.com/milwad-dev/laravel-attributes/actions/workflows/run-tests.yml)
-[![PHP Version Require](https://img.shields.io/packagist/dependency-v/milwad/laravel-attributes/php)](https://packagist.org/packages/milwad/laravel-attributes)
-***
-The `laravel-advanced-attributes` package is a tool designed to help Laravel developers ....
+***The `laravel-advanced-attributes` package is a tool designed to help Laravel developers ....
 
 # Requirements
 ***
